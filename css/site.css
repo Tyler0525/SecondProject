@@ -1,0 +1,26 @@
+.heroImage {
+    max-width: 500px;
+}
+
+.heroPic {
+    max-width: 200px;
+}
+
+.oddRow {
+    background-color: aqua;
+}
+
+.evenRow {
+    background-color: coral;
+}
+
+.heroText {
+    font-family: 'Comic Neue', cursive;
+    font-size: 4em;
+    margin: 0;
+    text-transform: uppercase;
+    color: blue;
+    text-shadow: 2px 1px darkgray;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: crimson;
+}
